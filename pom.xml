@@ -15,4 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>nexus</id>
+      <name>Releases</name>
+      <url>https://nexus.endava.net/#browse/browse/assets:Intens_2018_firs</url>
+    </repository>
+  </distributionManagement>
 </project>
